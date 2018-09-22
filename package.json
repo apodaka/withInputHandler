@@ -1,0 +1,32 @@
+{
+  "name": "withformhandler",
+  "version": "1.0.0",
+  "description": "A simple input state management using recompose. This is not finished yet ",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "immutable": "4.0.0-rc.9",
+    "lodash.every": "4.6.0",
+    "lodash.get": "4.4.2",
+    "lodash.isempty": "4.4.0",
+    "lodash.isfunction": "3.0.9",
+    "lodash.isnumber": "3.0.3",
+    "lodash.isplainobject": "4.0.6",
+    "lodash.isstring": "4.0.1",
+    "lodash.keys": "4.2.0",
+    "lodash.size": "4.2.0",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-scripts": "1.1.4",
+    "recompose": "0.27.1",
+    "semantic-ui-css": "2.3.3",
+    "semantic-ui-react": "0.82.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

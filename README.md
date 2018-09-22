@@ -1,2 +1,0 @@
-# withInputHandler
-Created with CodeSandbox
